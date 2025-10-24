@@ -1,8 +1,6 @@
 {
   "Allowed": {
     "Leoking_000": { "expires": "2030-10-10" },
-    "": { "expires": "2025-11-30" },
-    "": { "expires": "2026-01-15" }
   },
   "Message": "⛔ Your Whitelist has expired"
 }

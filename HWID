@@ -2,7 +2,16 @@
   "Allowed": {
     "Leoking_000": { "expires": "2050-10-21" },
     "artemsigmo58": { "expires": "2025-11-20" },
-    "davidscript107": { "expires": "2025-10-25" }
+    "davidscript107": { "expires": "2025-10-25" },
+    "": { "expires": "2025-11-21" },
+    "": { "expires": "2025-11-20" },
+    "": { "expires": "2025-11-25" },
+    "": { "expires": "2025-11-21" },
+    "": { "expires": "2025-11-20" },
+    "": { "expires": "2025-11-25" },
+    "": { "expires": "2025-11-21" },
+    "": { "expires": "2025-11-20" },
+    "": { "expires": "2025-11-25" }
   },
   "Message": "🚫 Not Whitelisted."
 }
